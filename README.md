@@ -3,7 +3,7 @@
 - 
 https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
 https://www.geeksforgeeks.org/classes-objects-java/
-
+https://www.javatpoint.com/java-variables
 
 
 
