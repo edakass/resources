@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=yaiNXqGJdgY
 
 code conventions https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 
+https://webritmi.com/2020/09/10/java-spring-boot-lazy-loading-nesneler-ve-dto-kullanimi
+
 
 
 
