@@ -16,5 +16,9 @@ https://www.javatpoint.com/java-variables
 https://www.youtube.com/watch?v=yaiNXqGJdgY
 
 
+code conventions https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+
+
+
 
 
