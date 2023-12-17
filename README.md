@@ -25,3 +25,5 @@ Entity sınıflarımızı apiler aracılığıyla dış dünyaya açmak bir güv
 https://medium.com/@latestsoftwaredevelopers/dto-nedir-ne-i%C5%9Fe-yarar-8f01c9e7bba7
 
 
+https://www.guru99.com/java-variables.html#:~:text=Variable%20in%20Java%20is%20a,%3A%20Local%2C%20Instance%20and%20Static.
+
